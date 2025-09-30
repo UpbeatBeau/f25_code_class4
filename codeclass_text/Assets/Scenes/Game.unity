@@ -150,7 +150,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::GameManager
   text: {fileID: 1445638661}
   e: {fileID: 1781555164194001046, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
-  d: {fileID: -8603926194720438059, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  d: {fileID: 7634190045113665625, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
 --- !u!4 &33973367
 Transform:
   m_ObjectHideFlags: 0
